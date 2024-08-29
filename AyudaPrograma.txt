@@ -1,0 +1,74 @@
+				MANUAL DE USUARIO:
+
+Bienvenidos al manual de usuario del programa del Reloj...
+
+Este programa principalmente simula algunas funciones relacionadas a un reloj.
+Da la hora, los minutos y los segundos actuales tanto en el reloj digital como
+en el analogico. Asimismo contiene un cronometro que permite contar la duracion
+de un suceso y al detenerlo te da opcion de guardar la marca. Tambien tiene un 
+despertador el cual previamente se asignan las alarmas y cuando llegue la hora
+sonaran unos "beep" junto con unos mensajes. 
+
+Cuando inicia el programa mostrara el menu con las siguientes opciones:
+
+1...Crear cascaron
+Como se pone entre parentesis antes de elegir una opcion, este apartado debera
+ser seleccionado si es la primera vez que se corre el programa o si en algun 
+punto se desea reiniciar y borrar todos los datos que se habian guardado como
+alarmas o tiempos del cronometro. Esta opcion permitira preparar el programa
+para que pueda guardar datos sin que se pierdan al volverlo a ejecutar.
+
+2...Reloj digital 
+Al seleccionar esta opcion se guiara al usuario a un reloj digital en formato
+hh:mm:ss AM/PM con la hora en tiempo real. Al cambiar la hora sonaran dos 
+pitidos. Se puede regresar al menu con solo presionar la tecla Enter. 
+
+3...Reloj analogico
+Al seleccionar esta opcion se guiara al usuario a otro ejecutable con un reloj 
+analogico teniendo la hora en tiempo real. Las manecillas del reloj no se deben
+confundir, la manecilla verde es de los segundos, el azul es de los minutos y el
+rojo es de las horas. Se puede regresar al menu al presionar cualquier tecla. 
+
+4...Cronometro
+Despues de elegir la opcion aparecera abajo del menu un aviso en el cual le
+permitira al usuario empezar el cronometro al presionar Enter. Una vez iniciado
+aparecera en pantalla el tiempo corriendo en formato hh:mm:ss. Se podra detener
+al presionar cualquier tecla sin que sea Enter y se reanudara de la misma forma.
+Para detenerlo definitivamente se debera presionar Enter. Una vez finalizado se
+preguntara en pantalla si se quiere guardar la marca.
+
+5...Tiempos del cronometro guardados
+Como lo menciona el nombre, aqui se muestran los registros guardados de la opcion
+anterior. Se plasman las marcas de tiempo enumeradas si previamente se guardaron
+registros, si no fue asi el caso mostrara un mensaje diciendo que no hay 
+registros. En caso de que haya registros aparecera un submenu que le permite al
+usuario eliminar un registro segun la enumeracion de las marcas o simplemente
+regresar al menu principal.
+
+6...Alarmas para el despertador
+Cuando el usuario elije esta opcion, enseguida se plasmara un submenu relacionado
+a las alarmas. En la parte superior se imprime en pantalla las alarmas programa-
+das y enumeradas si hay registros, sino mostrara que no hay registros. El pequenio
+menu permite dar de alta una alarma en formato hh:mm AM/PM. Asimismo deja 
+eliminar una alarma programada o modificarla segun su enumeracion. Claramente, 
+tambien tiene opcion para regresar al menu principal.
+
+7...Despertador
+Al seleccionarse el despertador se guiara al usuario a un reloj digital en 
+formato hh:mm:ss AM/PM con la hora en tiempo real. Segun las alarmas programadas
+en la opcion anterior sonaran unos pitidos y aparecera en pantalla unos
+mensajes diciendo "DESPIERTA!!!" cuando la hora coincida a alguna alarma. Se 
+podra detener el despertador con la tecla Esc y para regresar al menu se tendra 
+que presionar Enter.
+
+8...Ayuda con el programa
+En pantalla aparecera este manual de usuario que permite dar una idea general de
+lo que hace cada opcion del menu. Para salir del manual simplemente se debe
+presionar enter.
+
+9...Salir
+Le permite al usuario salir del programa despues de unos mensajes de agradeci-
+miento.
+
+Gracias por utilizar el programa!!! 
+
